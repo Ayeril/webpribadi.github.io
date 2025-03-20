@@ -370,7 +370,7 @@ body {
 .footer .social a:hover {
   transform: scale(1.2) translateY(-10px);
   background-color: var(--main-color);
-  color: var(--text-color);
+  color: rgba(1, 1, 1, 0.8);
   box-shadow: 0 0 25px var(--main-color);
 }
 .footer ul {
